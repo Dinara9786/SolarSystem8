@@ -9,5 +9,10 @@ public class Main {
         FactorX.Moons=3;
         FactorX.Planets=2;
 
+        SUN Freon = new SUN();
+        Freon.color="red";
+        Freon.size="7000km";
+        Freon.Temp="40000c";
+
     }
 }
